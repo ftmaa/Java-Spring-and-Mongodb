@@ -1,0 +1,4 @@
+app\Member.class
+app\MemberController.class
+app\Application.class
+app\MemberRepository.class
